@@ -3,7 +3,7 @@
         'name' => '__root__',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '7fb38220109890b9268289c3c6e8fea4276d1f10',
+        'reference' => 'a9a640b5286775851820b85d831cb6de77c91449',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         '__root__' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '7fb38220109890b9268289c3c6e8fea4276d1f10',
+            'reference' => 'a9a640b5286775851820b85d831cb6de77c91449',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
